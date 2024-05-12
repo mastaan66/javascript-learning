@@ -1,1 +1,3 @@
-document.getElementById("count-el").innerText = 5
+console.log('Mastan')
+accountId = 12
+console.log(typeof accountId)
